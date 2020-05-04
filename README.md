@@ -4,6 +4,7 @@
 
 To run onced cloned type:
 npm install
+
 npm run dev
 
 
